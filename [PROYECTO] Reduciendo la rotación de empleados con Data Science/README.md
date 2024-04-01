@@ -6,7 +6,7 @@ Este proyecto proporciona una solución de análisis y predicción de la rotaci�
 
 ## Contenido del Repositorio
 - `Analisis_y_Prediccion_Abandono_Empleados.ipynb`: Jupyter Notebook que contiene todo el análisis de datos, la creación y validación del modelo predictivo.
-- `data/`: Carpeta que contiene el conjunto de datos `AbandonoEmpleados.csv` utilizado en el análisis.
+- `AbandonoEmpleados.csv`: Conjunto de datos utilizado en el análisis.
 
 ## Uso
 Para ejecutar el notebook, inicie Jupyter Notebook o JupyterLab y abra el archivo `analisis_prediccion_rotacion_empleados.ipynb`. Siga las celdas en orden, ejecutando cada una para reproducir el análisis y los resultados.
