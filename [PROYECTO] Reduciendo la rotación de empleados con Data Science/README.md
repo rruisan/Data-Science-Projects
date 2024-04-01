@@ -5,16 +5,9 @@
 Este proyecto proporciona una solución de análisis y predicción de la rotación de empleados utilizando datos históricos de una empresa. Se analiza el abandono de los empleados, se identifican factores clave que influyen en la rotación y se cuantifica el impacto económico de este problema. Utilizando Machine Learning, creamos un modelo que predice la probabilidad de abandono de los empleados, permitiendo a la empresa tomar medidas preventivas.
 
 ## Contenido del Repositorio
-- `analisis_prediccion_rotacion_empleados.ipynb`: Jupyter Notebook que contiene todo el análisis de datos, la creación y validación del modelo predictivo.
+- `Analisis_y_Prediccion_Abandono_Empleados.ipynb`: Jupyter Notebook que contiene todo el análisis de datos, la creación y validación del modelo predictivo.
 - `dashboard_final.png`: Imagen del dashboard interactivo desarrollado en Tableau.
-- `requirements.txt`: Archivo con las dependencias necesarias para reproducir el análisis.
 - `data/`: Carpeta que contiene el conjunto de datos `AbandonoEmpleados.csv` utilizado en el análisis.
-
-## Instalación
-Para instalar las dependencias del proyecto, ejecute el siguiente comando:
-```bash
-pip install -r requirements.txt
-```
 
 ## Uso
 Para ejecutar el notebook, inicie Jupyter Notebook o JupyterLab y abra el archivo `analisis_prediccion_rotacion_empleados.ipynb`. Siga las celdas en orden, ejecutando cada una para reproducir el análisis y los resultados.
