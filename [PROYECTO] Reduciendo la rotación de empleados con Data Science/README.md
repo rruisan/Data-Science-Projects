@@ -28,6 +28,8 @@ El proyecto sigue un flujo de trabajo estructurado que comienza con la carga y l
 El proyecto concluye con la predicción del riesgo de abandono por empleado y la interpretación de los resultados, incluyendo la importancia de las variables. Se presenta un diagrama del árbol de decisión y se discute su relevancia en el contexto empresarial.
 
 ## Dashboard Interactivo
+![Dashboard de Rotación de Empleados](data/dashboard.png)
+
 Puedes acceder al dashboard interactivo del proyecto creado con Tableau a través del siguiente enlace:
 
 [Dashboard de Rotación de Empleados](https://public.tableau.com/app/profile/roberto.ruiz7263/viz/PracticaDashboard_17112864386510/Dashboard)
