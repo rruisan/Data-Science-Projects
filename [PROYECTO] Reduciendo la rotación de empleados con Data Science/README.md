@@ -1,6 +1,16 @@
 
 # Análisis y Predicción de la Rotación de Empleados
 
+# Índice
+
+- [Descripción](#descripción)
+- [Contenido del Repositorio](#contenido-del-repositorio)
+- [Uso](#uso)
+- [Metodología](#metodología)
+- [Resultados](#resultados)
+- [Contribuciones](#contribuciones)
+- [Licencia](#licencia)
+
 ## Descripción
 Este proyecto proporciona una solución de análisis y predicción de la rotación de empleados utilizando datos históricos de una empresa. Se analiza el abandono de los empleados, se identifican factores clave que influyen en la rotación y se cuantifica el impacto económico de este problema. Utilizando Machine Learning, creamos un modelo que predice la probabilidad de abandono de los empleados, permitiendo a la empresa tomar medidas preventivas. La culminación del proyecto es un dashboard interactivo en Tableau que muestra métricas clave como tasas de abandono, costes y ahorros potenciales, todo filtrable por departamento.
 
